@@ -55,10 +55,23 @@
   <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<b>Actividad en GitHub</b>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=IngAlim2023&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="lang-stats" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=IngAlim2023&show_icons=true&locale=en&theme=chartreuse-dark" alt="github-stats" width="410" /></p>
+<!-- Lenguajes más usados -->
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=IngAlim2023&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="lang-stats" />
+</p>
 
-<br><br><br><br><br>
+<!-- Estadísticas de GitHub con commits privados y caché reducido -->
+<p>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=IngAlim2023&show_icons=true&locale=en&theme=chartreuse-dark&count_private=true&cache_seconds=30" alt="github-stats" width="410" />
+</p>
+
+<br><br><br><br>
+
+<!-- Contribuciones -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=IngAlim2023&theme=chartreuse-dark" />
+</div>
+
 
 
 

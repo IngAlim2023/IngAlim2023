@@ -3,7 +3,7 @@
 
 <p align="center">
   <em>
-    ¡Hola! Soy <b>Jorge Porras</b>, Analista y Desarrollador de Software, además de <b>Ingeniero de Alimentos</b> 🧪👨‍💻.<br>
+    ¡Hola! Soy <b>Jorge Porras</b>, Analista y Desarrollador de Software.
     Me apasiona la tecnología, la innovación y el aprendizaje constante. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> <br>
     Soy un <b>autodidacta curioso</b> que disfruta construir soluciones creativas con código y explorar nuevas herramientas digitales.<br>
     Me interesa el <b>desarrollo web</b>, la <b>automatización</b>, la <b>inteligencia artificial</b> y todo lo relacionado con el mundo tech.<br>
